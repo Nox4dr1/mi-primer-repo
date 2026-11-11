@@ -1,0 +1,8 @@
+*.log
+*.tmp
+secretos.txt
+.vscode/
+.idea/
+
+git add .gitignore
+git commit -m "chore: agrega .gitignore"
